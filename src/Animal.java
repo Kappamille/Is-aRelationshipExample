@@ -1,6 +1,6 @@
 public class Animal {
 
-    static public boolean mamal = true;
+    static public boolean mamal = false;
     public Animal(String name) {
         this.name = name;
     }
